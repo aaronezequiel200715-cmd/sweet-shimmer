@@ -1,4 +1,4 @@
-# Sweet Shimmer
+# sweet-shimmer
 Next.js (App Router) + TypeScript + Tailwind v4.
 
     npm install
